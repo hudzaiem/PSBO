@@ -48,6 +48,7 @@ Tipe Desain pengembangan yang kami gunakan adalah blablabla
 ### Class diagram
 ### Entity Relationship Diagram
 ### Arsitektur sistem
+![gambar-7](./Diagram/Desain Arsitektur.jpg)
 ### Fungsi utama yang dikembangkan
 ### Fungsi CRUD
 
